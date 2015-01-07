@@ -8,3 +8,10 @@ this style is used in my work, i didn't do it well ,if this style not suit your 
 Example
 =========================
 go run sql2wordxml.go /home/samoin/aa.sql
+
+
+========================
+caution
+========================
+"github.com/go-4-mysql-tableinfo-master" is another program that provide a way to transform sql file to a object ,that contains the list of table struct.
+you can see it here "https://github.com/samoin/go-4-mysql-tableinfo"
